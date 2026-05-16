@@ -1,6 +1,7 @@
 https://portal.cloud.hashicorp.com/vagrant/discover/bento/ubuntu-16.04 # virtual Harddisk
 https://www.virtualbox.org/wiki/Downloads #virtual Box
 https://drive.google.com/file/d/1geQom5xl1YJhVa0YBtZrB3hH00dDietN/view #virtual box
+id vagrant
 ** To Transfer File From VM1 To VM2:
  -Commands To Execute on VM1:
   1. ifconfig
